@@ -1,0 +1,6 @@
+streamlit>=1.33
+opencv-python-headless
+numpy
+pandas
+openpyxl
+matplotlib
