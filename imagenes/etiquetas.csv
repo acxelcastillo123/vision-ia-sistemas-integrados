@@ -1,0 +1,35 @@
+imagen,etiqueta,causa_esperada,descripcion
+imagen_01.png,RECHAZADO,Sin tapa,"Frasco presente, tapa ausente"
+imagen_02.png,RECHAZADO,Tapa sin sellar (falta presión),Tapa sin sellar por completo; falta presión de cierre
+imagen_03.png,RECHAZADO,Sin tapa,"Frasco presente, tapa ausente"
+imagen_04.png,RECHAZADO,Tapa inclinada;Tapa desalineada,Tapa en ángulo incorrecto y no centrada; no podrá cerrarse
+imagen_05.png,RECHAZADO,Tapa sin sellar (falta presión),Tapa sin sellar por completo; falta presión de cierre
+imagen_06.png,APROBADO,Ninguna,Cierre correcto de la tapa
+imagen_07.png,APROBADO,Ninguna,Cierre correcto de la tapa
+imagen_08.png,APROBADO,Ninguna,Cierre correcto de la tapa
+imagen_09.png,APROBADO,Ninguna,Cierre correcto de la tapa
+imagen_10.png,APROBADO,Ninguna,Cierre correcto de la tapa
+imagen_11.png,RECHAZADO,Tapa sin sellar (falta presión),Tapa sin sellar por completo; falta presión de cierre
+imagen_12.png,RECHAZADO,Sin contenedor,Frasco y tapa ausentes
+imagen_13.png,RECHAZADO,Tapa sin sellar (falta presión),Tapa sin sellar por completo; falta presión de cierre
+imagen_14.png,RECHAZADO,Tapa sin sellar (falta presión),Tapa sin sellar por completo; falta presión de cierre
+imagen_15.png,APROBADO,Ninguna,Cierre correcto de la tapa
+imagen_16.png,RECHAZADO,Sin contenedor,Frasco y tapa ausentes
+imagen_17.png,RECHAZADO,Sin tapa,"Frasco presente, tapa ausente"
+imagen_18.png,RECHAZADO,Sin tapa,"Frasco presente, tapa ausente"
+imagen_19.png,RECHAZADO,Tapa sin sellar (falta presión),Tapa sin sellar por completo; falta presión de cierre
+imagen_20.png,RECHAZADO,Sin tapa,"Frasco presente, tapa ausente"
+imagen_21.png,RECHAZADO,Tapa desalineada,Tapa no centrada respecto al frasco; no podrá cerrarse
+imagen_22.png,RECHAZADO,Tapa sin sellar (falta presión),Tapa sin sellar por completo; falta presión de cierre
+imagen_23.png,RECHAZADO,Tapa sin sellar (falta presión),Tapa sin sellar por completo; falta presión de cierre
+imagen_24.png,RECHAZADO,Tapa sin sellar (falta presión),Tapa sin sellar por completo; falta presión de cierre
+imagen_25.png,RECHAZADO,Tapa desalineada,Tapa no centrada respecto al frasco; no podrá cerrarse
+imagen_26.png,RECHAZADO,Tapa desalineada,Tapa no centrada respecto al frasco; no podrá cerrarse
+imagen_27.png,RECHAZADO,Tapa inclinada;Tapa desalineada,Tapa en ángulo incorrecto y no centrada; no podrá cerrarse
+imagen_28.png,RECHAZADO,Tapa sin sellar (falta presión),Tapa sin sellar por completo; falta presión de cierre
+imagen_29.png,RECHAZADO,Tapa sin sellar (falta presión),Tapa sin sellar por completo; falta presión de cierre
+imagen_30.png,RECHAZADO,Tapa inclinada;Tapa desalineada,Tapa en ángulo incorrecto y no centrada; no podrá cerrarse
+imagen_31.png,APROBADO,Ninguna,Cierre correcto de la tapa
+imagen_32.png,RECHAZADO,Tapa inclinada;Tapa desalineada,Tapa en ángulo incorrecto y no centrada; no podrá cerrarse
+imagen_33.png,RECHAZADO,Tapa inclinada;Tapa desalineada,Tapa en ángulo incorrecto y no centrada; no podrá cerrarse
+imagen_34.png,RECHAZADO,Tapa inclinada;Tapa desalineada,Tapa en ángulo incorrecto y no centrada; no podrá cerrarse
